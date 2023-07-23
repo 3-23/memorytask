@@ -10,12 +10,14 @@ le fichier Recap.csv ou Recap.xlxs sont le meme fichier que les fichiers priori 
 3
 le fichier appels_journaliers.csv est un fichier formatés par date et nombres d'appels ( c'est le fichier journaliers )
 
-# Mais actuellement nous utilisons le fichier priori.xlsx ou priori.csv
+# Mais actuellement nous utilisons le fichier priori.xlsx ou priori.csv #
 
-# Voici le colab pour le code de n-beats
-# j'ai utilisé le fichier priori
+
+
+Voici le colab pour le code de n-beats
+j'ai utilisé le fichier priori
 # voici le lien : https://colab.research.google.com/drive/1RyCMuLCuce4cNXpUMESF7vTZXeK8ZZTo
--- Mais ne vous enfaites pas si vous voulez on peu totalement reecrire le code n-beats ou tout simplement revenir sur du lstm ou faire du mixte comme proposé -- .
+Mais ne vous enfaites pas si vous voulez on peu totalement reecrire le code n-beats ou tout simplement revenir sur du lstm ou faire du mixte comme proposé 
 
 
 # cODE
