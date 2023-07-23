@@ -1,5 +1,5 @@
 # memorytask
-Nous avons trois types fichiers de données
+Nous avons trois types de fichiers de données
 
 1
 le fichier priori.xlxs ou priori.csv sont des fichiers formatés par date, heure et nombres d'appels (fichiers par heure d'appels par pas de 30min ) ( #mais le nombre d'appels je l'ai mis en float) 
